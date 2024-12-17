@@ -1,5 +1,5 @@
 # **Plant Disease Classification using MobileNetV2** 🌿
-# 📌 Description du Projet
+📌 Description du Projet
 Ce projet utilise MobileNetV2 pour classifier les maladies des plantes à partir d'images. Il est basé sur les données de PlantVillage et permet d'identifier différentes maladies affectant les feuilles des plantes.
 
 Le modèle a été entraîné sur des images de feuilles saines et malades grâce à TensorFlow et a été converti en un modèle TensorFlow Lite (TFLite) pour une intégration sur des dispositifs mobiles.
